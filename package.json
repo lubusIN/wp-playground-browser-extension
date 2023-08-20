@@ -1,12 +1,13 @@
 {
-  "name": "open-in-wp-playground",
-  "displayName": "Open in wp playground",
+  "name": "open-in-wordpress-playground",
+  "displayName": "Open in WordPress playground",
   "version": "0.0.1",
   "description": "Launch WordPress Plugin or Theme in Playground",
   "author": "Ajit Bohra<ajit@lubus.in>",
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
+    "build:firefox": "plasmo build --target=firefox-mv2 --zip",
     "package": "plasmo package"
   },
   "dependencies": {
@@ -22,13 +23,5 @@
     "@types/react-dom": "18.2.7",
     "prettier": "3.0.2",
     "typescript": "5.1.6"
-  },
-  "manifest": {
-    "host_permissions": [
-      "https://*/*"
-    ],
-    "permissions": [
-      "tabs"
-    ]
   }
 }
