@@ -4,8 +4,8 @@ Browser extention to add playground button on wordpress.org plugins and themes. 
 <img src="assets/screenshot.png" alt="Open In Playgrpund" />
 
 
-## Install (Coming Soon...)
-<a href="#" alt="Install from chrome web store">
+## Install
+<a href="https://chrome.google.com/webstore/detail/open-in-wordpress-playgro/khfpfafeepbfdhggfoalfmbhkmjkolmo" alt="Install from chrome web store">
 <img width="250px" src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/YT2Grfi9vEBa2wAPzhWa.png" alt="Chrome Web Store">
 </a>
 
@@ -18,7 +18,7 @@ Browser extention to add playground button on wordpress.org plugins and themes. 
 ## Development 
 To install the extension load the unpacked version in your Chrome browser by following these steps:
 - Download or clone this repository
-- Type chrome://extensions in the address bar
+- Type `chrome://extensions` in the address bar
 - Enable the Developer Mode switch in the top right corner
 - Click the Load Unpacked Extension button
 - Select the `build/chrome-mv3-dev`  directory
