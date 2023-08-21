@@ -1,5 +1,5 @@
-# Open In WordPress Playground (browser extention)
-Browser extention to add playground button on wordpress.org plugins and themes. Playground button on page help to quickly launch plugin or theme for quick test drive.
+# Open In WordPress Playground (browser extension)
+Browser extension to add playground button on wordpress.org plugins and themes. Playground button on page help to quickly launch plugin or theme for quick test drive.
 
 <img src="assets/screenshot.png" alt="Open In Playgrpund" />
 
@@ -36,4 +36,4 @@ To install the extension load the unpacked version in your Chrome browser by fol
 
 ## License
 
-`WP Playground Browser Extention` is an open-source software licensed under the [MIT](LICENSE)
+`WP Playground Browser Extension` is an open-source software licensed under the [MIT](LICENSE)
